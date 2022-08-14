@@ -15,3 +15,5 @@
   <img align="center" alt="Imagem CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Imagem-Mysql" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
+
+![Snake animation](https://github.com/robellio/robellio/blob/output/github-contribution-grid-snake.svg)
