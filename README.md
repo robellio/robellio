@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/robellio"></a>
-  div style="float:left">
+  <div style="float:left" >
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robellio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"  />
  </div>
  <div style="float:right">
