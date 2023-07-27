@@ -8,7 +8,6 @@
 </div>
 
 ## Habilidades
-
 <div style="display: inline_block"><br/>
   <img align="center" alt="Imagem php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Imagem javaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
